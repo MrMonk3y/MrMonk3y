@@ -1,6 +1,6 @@
 # About Me:
-🔭 I’m currently working on 3D reconstruction from sparse X-rays, NeRF and Gaussian splatting<br>🤝 I’m looking to collaborate on CV and ML projects<br>👨🏻‍💻 I’m currently learning Web development<br>
-
+🔭 Working on projects in Computer Vision, 3D Reconstruction, and LLM Agents <br>
+🤝 Open to collaborations on CV and ML projects <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saschajecklin/ ) 
